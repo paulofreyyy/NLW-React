@@ -2,7 +2,7 @@
 
 # NLW Journey (React)
 
-Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
+Essa aplicação foi desenvolvida durante o NLW Journey da Rocketseat utilizando React, TypeScript, Tailwind.
 
 ## Executando
 
