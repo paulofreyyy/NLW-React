@@ -1,4 +1,4 @@
-![Cover](![Thumbnail](https://github.com/paulofreyyy/NLW-React/assets/74430831/7db10055-1dc7-49d5-9880-7573bb6f713a)
+(![Thumbnail](https://github.com/paulofreyyy/NLW-React/assets/74430831/7db10055-1dc7-49d5-9880-7573bb6f713a)
 
 # NLW Journey (React)
 
